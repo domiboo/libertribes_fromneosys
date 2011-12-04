@@ -1,0 +1,3 @@
+LibertribesJeuBundle_accueil:
+    pattern:  /{name}
+    defaults: { _controller: LibertribesJeuBundle:Accueil:index, name:"" }

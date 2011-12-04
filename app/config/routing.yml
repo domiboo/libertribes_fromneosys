@@ -1,3 +1,15 @@
+LibertribesJeuBundle:
+    resource: "@LibertribesJeuBundle/Resources/config/routing.yml"
+    prefix:   /jeu
+
+LibertribesCreationMondesBundle:
+    resource: "@LibertribesCreationMondesBundle/Resources/config/routing.yml"
+    prefix:   /creationMonde
+
+LibertribesCommerceBundle:
+    resource: "@LibertribesCommerceBundle/Resources/config/routing.yml"
+    prefix:   /commerce
+
 # Internal routing configuration to handle ESI
 #_internal:
 #   resource: "@FrameworkBundle/Resources/config/routing/internal.xml"
