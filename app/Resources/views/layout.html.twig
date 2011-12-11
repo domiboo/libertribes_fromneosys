@@ -7,7 +7,14 @@
 			'../app/Resources/public/css/*' %}
 			<link rel="stylesheet" href="{{ asset_url }}" type="text/css" media="screen" />
 		{% endstylesheets %}
-		{% block javascripts %} 
+		{% block stylesheet %}
+		{% endblock %}
+		{% javascripts
+			'../app/Resources/public/libjs/*'
+			%}
+			<script type="text/javascript" src="{{ asset_url }}"></script>
+		{% endjavascripts %}
+		{% block javascript %}
 		{% endblock %}
 
 	</head>

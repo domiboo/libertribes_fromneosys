@@ -1,10 +1,10 @@
-LibertribesJeuBundle:
-    resource: "@LibertribesJeuBundle/Resources/config/routing.yml"
-    prefix:   /jeu
+LibertribesGameBundle:
+    resource: "@LibertribesGameBundle/Resources/config/routing.yml"
+    prefix:   /game
 
-LibertribesCreationMondesBundle:
-    resource: "@LibertribesCreationMondesBundle/Resources/config/routing.yml"
-    prefix:   /creationMonde
+LibertribesWorldsCreationBundle:
+    resource: "@LibertribesWorldsCreationBundle/Resources/config/routing.yml"
+    prefix:   /worldsCreation
 
 LibertribesCommerceBundle:
     resource: "@LibertribesCommerceBundle/Resources/config/routing.yml"
