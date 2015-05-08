@@ -1,0 +1,99 @@
+/*/////////////////////////////////
+//    Auteur : Chris Fromont	//
+////////////////////////////////*/
+	
+     .lien_facebook {
+   		position: relative;
+    	left: 418px;
+    	top: 38px;
+    	
+  	}
+
+  	.image_logo{
+  		display: block;
+  		margin: -32px auto;
+  	}
+
+  	.lien_rss {
+    	position: relative;
+    	left: 820px;
+    	bottom: 42px;
+  	}
+  	
+	#centre > #contenu {
+		background-image: url(../images/connexion/background.png);
+		background-repeat: no-repeat;
+		height: 463px;
+		width: 492px;
+		margin-left: auto;
+ 		margin-right: auto;
+ 		margin-top: 76px;
+	}
+
+	.titre {
+		font-size: 30px;
+		font-weight: bold;
+		font-family: 'Kleymissky';
+		color: #330000;
+		text-align: center;
+		line-height:98px;
+		
+	}
+
+	.image_fermer {
+		float: right;
+		margin-top: -66px;
+		margin-right: 10px;
+	}
+
+	.account_mail_label {
+		font-weight: bold;
+		font-family: 'Kleymissky';
+		font-size: 26px;
+		color: #330000;
+		margin: 90px 0 0 105px;	
+	}
+
+	.account_mail {
+		background-color: transparent;
+		border-width: 1px;
+		border-color: #330000;
+	}
+
+	.account_password_label {
+		font-weight: bold;
+		font-family: 'Kleymissky';
+		font-size: 26px;
+		color: #330000;
+		margin: 16px 0 0 34px;
+	}
+
+	.account_password {
+		background-color: transparent;
+		border-width: 1px;
+		border-color: #330000;
+	}
+
+
+	.lien_inscription {
+		font-weight: bold;
+		font-family: 'Kleymissky';
+		font-size: 24px;
+		color: #330000;
+		display:block;
+		text-align:center;
+		margin: 40px 0 0 0;
+		
+	}
+
+	.bouton_valider {
+		height: 38px;
+		width: 89px;
+		display: block; 
+		margin: 80px auto; 
+	}
+
+
+
+
+
