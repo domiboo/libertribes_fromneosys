@@ -4,10 +4,10 @@ hegoa_2015/.DS*
 hegoa_2015/*.*~
 hegoa_2015/google*.html
 hegoa_2015/Bing*.xml
-hegoa_2015/app/*
-hegoa_2015/bin/*
-hegoa_2015/src/*
-hegoa_2015/web/*
+app/*
+bin/*
+src/*
+web/*
 hegoa_2015/includes/.DS*
 hegoa_2015/includes/*.*~
 hegoa_2015/contenus/.DS*
